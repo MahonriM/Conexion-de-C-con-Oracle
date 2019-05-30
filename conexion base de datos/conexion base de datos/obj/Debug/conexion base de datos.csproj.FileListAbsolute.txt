@@ -1,0 +1,10 @@
+C:\Users\chumo\source\repos\conexion base de datos\conexion base de datos\bin\Debug\conexion base de datos.exe.config
+C:\Users\chumo\source\repos\conexion base de datos\conexion base de datos\bin\Debug\conexion base de datos.exe
+C:\Users\chumo\source\repos\conexion base de datos\conexion base de datos\bin\Debug\conexion base de datos.pdb
+C:\Users\chumo\source\repos\conexion base de datos\conexion base de datos\obj\Debug\conexion base de datos.csprojAssemblyReference.cache
+C:\Users\chumo\source\repos\conexion base de datos\conexion base de datos\obj\Debug\conexion_base_de_datos.Form1.resources
+C:\Users\chumo\source\repos\conexion base de datos\conexion base de datos\obj\Debug\conexion_base_de_datos.Properties.Resources.resources
+C:\Users\chumo\source\repos\conexion base de datos\conexion base de datos\obj\Debug\conexion base de datos.csproj.GenerateResource.cache
+C:\Users\chumo\source\repos\conexion base de datos\conexion base de datos\obj\Debug\conexion base de datos.csproj.CoreCompileInputs.cache
+C:\Users\chumo\source\repos\conexion base de datos\conexion base de datos\obj\Debug\conexion base de datos.exe
+C:\Users\chumo\source\repos\conexion base de datos\conexion base de datos\obj\Debug\conexion base de datos.pdb
